@@ -1,3 +1,4 @@
+{
   "$light_button_default_text_color": [ 1.0, 1.0, 1.0 ],
    "$light_toggle_default_text_color": [ 1.0, 1.0, 1.0 ],
   "$light_toggle_checked_default_text_color": [ 1.0, 1.0, 1.0 ],
@@ -37,3 +38,4 @@
   "$store_offer_type_icon_color": [ 1.0, 1.0, 1.0 ],
   "$store_rating_text_panel_color": [ 1.0, 1.0, 1.0 ],
   "$store_light_grey_text_color": [ 1.0, 1.0, 1.0 ]
+}
