@@ -1,0 +1,24 @@
+{
+	"info": {
+		"name": "StoneBlock Textures",
+		"version": "1.0",
+		"author": "Nernar",
+		"description": "StoneBlock customization, kinda game overlay and menu.",
+		"clientOnly": true
+	},
+	"api": "CoreEngine",
+	"resources": [
+		{
+			"path": "assets/assets",
+			"type": "resource_directory"
+		}
+	],
+	"sources": [],
+	"compile": [],
+	"additional": [
+		{
+			"source": "assets/root/*",
+			"targetDir": "."
+		}
+	]
+}
